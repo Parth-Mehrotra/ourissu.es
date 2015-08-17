@@ -3,6 +3,16 @@
 
 This is a [Google App Engine](https://cloud.google.com/appengine/docs) application. It's divides into a distinct [frontend](https://github.com/Parth-Mehrotra/ourissu.es/tree/master/frontend) and [backend](https://github.com/Parth-Mehrotra/ourissu.es/tree/master/backend). The [frontend](https://github.com/Parth-Mehrotra/ourissu.es/tree/master/frontend) is responsible for visualizing the data, and helping users submit their issues. The [backend](https://github.com/Parth-Mehrotra/ourissu.es/tree/master/backend) is responsible storing the data, and providing it back to the [frontend](https://github.com/Parth-Mehrotra/ourissu.es/tree/master/frontend) in the JSON format. The [frontend](https://github.com/Parth-Mehrotra/ourissu.es/tree/master/frontend) utilizes [Leaflet](http://leafletjs.com/), an interactive mapping library.
 
+# Philosophy  
+
+Currently there isn't an effective way for communities to interact with their community leaders. [ourissu.es](http://ourissu.es) aims to solve that problem with a few guiding principals.
+
+* Everyone should feel like they're making a meaningful contribution to this "issuebase"
+* It should be easy for people find issues they're passionate about
+* It should be easy and rewarding for people to share issues and encourage community participation
+* It should be easy for community leaders to interact with their community
+* It should be easy to capture the improvement in communities
+
 # To Download
 ```
 git clone --recursive git@github.com:Parth-Mehrotra/ourissu.es.git
